@@ -6,3 +6,20 @@
 #canvas {
   display: block;
 }
+body{
+  position: relative;
+ 
+
+}
+div{
+
+  position: absolute;
+ 
+ left:95%;
+  
+}
+button{
+
+  margin-top: 10px;
+  
+}
